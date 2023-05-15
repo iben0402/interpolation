@@ -24,14 +24,14 @@ end
 
 figure
 plot(6:45, div_polyval);
-title("Zbieżność interpolacji wielomianowej");
+title("Maksymalna różnica między wartościami dla interpolacji wielomianowej");
 ylabel("Maksymalna wartość różnicy interpolowanych funkcji");
 xlabel("Ilość punktów pomiarowych K");
 print(gcf, "zbiez_wiel.png", '-dpng');
 
 figure
 plot(6:45, div_trygval);
-title("Zbieżność interpolacji trygonometrycznej");
+title("Maksymalna różnica między wartościami dla interpolacji trygonometrycznej");
 ylabel("Maksymalna wartość różnicy interpolowanych funkcji");
 xlabel("Ilość punktów pomiarowych K");
 print(gcf, "zbiez_tryg.png", '-dpng');
