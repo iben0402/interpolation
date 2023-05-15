@@ -1,0 +1,2 @@
+W przypadku interpolacji trygonometrycznej widać, że wraz z wzrostem liczby punktów pomiarowych wzrasta dokładność interpolacji.
+W przypadku interpolacji wielomianowej nie można zauważyć takiej zależności. Dokładność jest nieregularna, a nawet można zauważyć, że dla wartości K=45 dokładność jest bardzo niska.

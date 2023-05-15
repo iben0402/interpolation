@@ -1,0 +1,1 @@
+Dla obu interpolacji można zauważyć większą dokładność wraz z wzrostem liczby pomiarów K. Przybliżenia interpolacji wielomianowej zdają się być mniej dokładne im bliżej granicy przedziału. Może to być spowodowane efekten Rungego - na krawędziach pojawiają się oscylacje i wykorzystujemy wielomiany wysokiego stopnia do interpolacji węzłów w równo odległych punktach.
